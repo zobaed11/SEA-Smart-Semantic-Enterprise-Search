@@ -1,0 +1,19 @@
+network: 0.1
+web: 0.22379565
+meshing: 0.079923056
+entree: 0.04618921
+access: 0.0001
+admittance: 0.02448082
+approach: 0.24987173
+Network access: 1
+communicate: 0.5
+group: 0.5
+code: 0.1
+digits: 0.1
+typed: 0.1
+spoken: 0.1
+series: 0.1
+telephone: 0.1
+characters: 0.1
+entered: 0.1
+dialed: 0.1

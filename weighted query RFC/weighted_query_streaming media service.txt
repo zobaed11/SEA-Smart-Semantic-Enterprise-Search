@@ -1,0 +1,26 @@
+streaming: 0.0001
+stream: 0.1277458
+pour: 0.008544015
+swarm: 0.01491052
+teem: 0.059942096
+pelt: 0.028370116
+medium: 0.23424932
+sensitive: 0.19484809
+metier: 0.07406709
+service: 0.0001
+avail: 0.0009289868
+help: 0.1304715
+servicing: 0.17970514
+serve: 0.08419399
+serving: 0.02000229
+media: 0.0001
+streaming media service: 1
+flow: 0.3333333333333333
+abundantly: 0.3333333333333333
+freely: 0.3333333333333333
+animals: 0.25
+act: 0.25
+male: 0.25
+mating: 0.25
+suited: 0.5
+occupation: 0.5

@@ -1,0 +1,23 @@
+president: 0.016358406593402226
+ukraine: 0.0001
+ukraine president: 1
+Ukraine: 0.0072546591982245445
+President: 0.011055423567692438
+chairman: 0.014488490919272104
+chair: 0.011408866693576178
+chairperson: 0.0004920844609538714
+prexy: 0.008262401446700096
+europe: 0.1
+european: 0.1
+russian: 0.1
+soviet: 0.1
+century: 0.1
+republic: 0.1
+southeastern: 0.1
+center: 0.1
+ninth: 0.1
+original: 0.1
+united: 0.25
+states: 0.25
+office: 0.25
+head: 0.25

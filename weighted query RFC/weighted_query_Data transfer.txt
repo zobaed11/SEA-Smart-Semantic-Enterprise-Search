@@ -1,0 +1,20 @@
+data: 0.0001
+information: 0.29475975
+datum: 0.1043255
+transfer: 0.0001
+transferral: 0.1436262
+conveyance: 0.11643931
+transference: 0.15709756
+reassign: 0.018236661
+shift: 0.10012242
+change: 0.10758344
+channelize: 0.07238087
+remove: 0.05183494
+transpose: 0.02091635
+Data transfer: 1
+drawn: 0.25
+collection: 0.25
+facts: 0.25
+conclusions: 0.25
+move: 0.5
+place: 0.5

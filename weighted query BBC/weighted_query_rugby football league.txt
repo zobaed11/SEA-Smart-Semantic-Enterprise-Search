@@ -1,0 +1,17 @@
+rugby: 0.030190367
+league: 0.3333333333333333
+football: 0.2
+rugby football league: 1
+rugger: 0.009844957
+ball: 0.1
+form: 0.3333333333333333
+oval: 0.1
+played: 0.1
+unite: 0.3333333333333333
+round: 0.1
+goal: 0.1
+games: 0.1
+teams: 0.1
+kick: 0.1
+carry: 0.1
+propel: 0.1

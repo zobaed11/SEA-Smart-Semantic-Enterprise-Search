@@ -1,0 +1,27 @@
+host: 0.0001
+legion: 0.00806655
+server: 0.15222977
+network: 0.1
+web: 0.22379565
+mesh: 0.11666839
+meshing: 0.079923056
+meshwork: 0.15260094
+configuration: 0.0001
+constellation: 0.1027757
+contour: 0.14107394
+host network configuration: 1
+science: 0.1
+computer: 0.1
+client: 0.1
+stations: 0.1
+access: 0.1
+files: 0.1
+printers: 0.1
+shared: 0.1
+resources: 0.1
+attributes: 0.25
+outline: 0.25
+spatial: 0.25
+defined: 0.25
+communicate: 0.5
+group: 0.5

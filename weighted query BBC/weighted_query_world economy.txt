@@ -1,0 +1,27 @@
+world: 0.26890486
+economy: 0.21472798
+world economy: 1
+universe: 0.14185835
+existence: 0.068938985
+creation: 0.21440011
+cosmos: 0.07427741
+macrocosm: 0.17259
+reality: 0.14845935
+Earth: 0.1187364
+earth: 0.067942016
+humanity: 0.1407867
+humankind: 0.22221959
+human_beings: 0.10842908
+humans: 0.13826048
+mankind: 0.19141173
+thriftiness: 0.20088468
+saving: 0.15314035
+afterlife: 0.2
+concerns: 0.2
+life: 0.2
+distinguished: 0.2
+heaven: 0.2
+economizing: 0.25
+reduction: 0.25
+cost: 0.25
+act: 0.25

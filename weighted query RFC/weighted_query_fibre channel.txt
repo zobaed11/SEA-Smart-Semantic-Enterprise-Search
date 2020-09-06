@@ -1,0 +1,15 @@
+line: 0.090743564
+impart: 0.10933406
+conduct: 0.062366456
+transmit: 0.21519762
+convey: 0.070882134
+carry: 0.019039307
+transfer: 0.13166423
+transport: 0.19574392
+channelize: 0.07238087
+channel: 0.0001
+fibre: 1
+fibre channel: 1
+send: 0.3333333333333333
+person: 0.3333333333333333
+place: 0.3333333333333333

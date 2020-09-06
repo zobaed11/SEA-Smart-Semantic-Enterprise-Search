@@ -1,0 +1,10 @@
+commission: 0.0026104394
+european: 1
+european commission: 1
+mission: 0.15591606
+charge: 0.034373373
+perpetration: 0.097375244
+committal: 0.096972644
+crime: 0.3333333333333333
+act: 0.3333333333333333
+committing: 0.3333333333333333

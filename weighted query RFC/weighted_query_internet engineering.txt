@@ -1,0 +1,23 @@
+internet: 0.0001
+cyberspace: 0.20328793
+technology: 1.0
+engineering: 0.0001
+engineer: 0.20367023
+direct: 0.12089048
+organize: 0.040101476
+internet engineering: 1
+tcp: 0.1
+exchange: 0.1
+network: 0.1
+computer: 0.1
+consisting: 0.1
+worldwide: 0.1
+protocols: 0.1
+facilitate: 0.1
+data: 0.1
+transmission: 0.1
+industry: 0.2
+practical: 0.2
+application: 0.2
+science: 0.2
+commerce: 0.2

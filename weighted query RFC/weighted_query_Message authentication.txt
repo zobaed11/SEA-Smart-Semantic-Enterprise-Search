@@ -1,0 +1,7 @@
+message: 0.5
+authentication: 0.0001
+certification: 0.22662008
+Message authentication: 1
+send: 0.5
+validating: 0.5
+authenticity: 0.5

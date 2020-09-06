@@ -1,0 +1,13 @@
+satellite: 0.3333333333333333
+connection: 0.06455466
+satellite connection: 1
+connexion: 0.114758335
+connectedness: 0.17146729
+link: 0.04238815
+broadcast: 0.3333333333333333
+disseminate: 0.3333333333333333
+contact: 0.2
+communication: 0.2
+act: 0.2
+bringing: 0.2
+things: 0.2

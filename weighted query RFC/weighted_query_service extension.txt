@@ -1,0 +1,26 @@
+service: 0.0001
+avail: 0.0009289868
+help: 0.1304715
+servicing: 0.17970514
+serve: 0.08419399
+serving: 0.02000229
+propagation: 0.21480915
+reference: 0.0019709393
+denotation: 0.12611714
+lengthiness: 0.09706628
+prolongation: 0.055930927
+elongation: 0.02079157
+extension: 0.0001
+service extension: 1
+animals: 0.25
+act: 0.25
+male: 0.25
+mating: 0.25
+expression: 0.125
+class: 0.125
+refers: 0.125
+direct: 0.125
+specific: 0.125
+meaning: 0.125
+word: 0.125
+objects: 0.125
