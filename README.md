@@ -1,6 +1,6 @@
 # SEA-Smart-Semantic-Enterprise-Search
 
-## SEA implementation for INFOCOM-2020 submission. 
+## SEA implementation for WWW-2021 submission. 
 
 ## How to execute
 
