@@ -1,6 +1,6 @@
-# SEA-Smart-Semantic-Enterprise-Search
+# SAED-Smart-Semantic-Enterprise-Search
 
-## SEA implementation for WWW-2021 submission. 
+## SAED implementation for WWW-2021 submission. 
 
 ## How to execute
 
